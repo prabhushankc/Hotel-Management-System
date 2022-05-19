@@ -1,7 +1,7 @@
 {
-  "name": "prabandhak",
+  "name": "server",
   "version": "1.0.0",
-  "description": "-hotel management system",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
